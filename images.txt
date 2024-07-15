@@ -1,4 +1,2 @@
-nginx
-#支持私库
 infiniflow/ragflow-base:v2.0
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
