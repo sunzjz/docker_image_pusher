@@ -1,6 +1,4 @@
 ragflow-base:v2.0
-#支持私库
 infiniflow/ragflow-base:v2.0
-
 elasticsearch:8.11.3
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
